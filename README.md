@@ -3,6 +3,7 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
+
 [![Build Status](https://blaka.visualstudio.com/Prv%20Proekt%20SCRUM/_apis/build/status/blaka.calculator?branchName=master)](https://blaka.visualstudio.com/Prv%20Proekt%20SCRUM/_build/latest?definitionId=4&branchName=master)
 
 The project contains a simple node.js application that exposes REST APIs
